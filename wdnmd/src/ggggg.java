@@ -6,4 +6,5 @@ public class ggggg {
     public void test(){
         System.out.println("ggggggggg");
     }
+
 }
