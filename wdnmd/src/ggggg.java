@@ -3,4 +3,7 @@ public class ggggg {
         System.out.println("gggg");
         System.out.println("ggggggggggg");
     }
+    public void test(){
+        System.out.println("ggggggggg");
+    }
 }
